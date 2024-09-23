@@ -1,7 +1,7 @@
-const yesBtn = document.querySelector(".yes-btn");
-const noBtn = document.querySelector(".no-btn");
-const question = document.querySelector(".question");
-const gif = document.querySelector(".gif");
+const yesBtn = document.querySelector(".да-btn");
+const noBtn = document.querySelector(".нет-btn");
+const question = document.querySelector(".завтра пойти в школу?");
+const gif = document.querySelector(".https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpushen-cute&psig=AOvVaw1ouCCA8kIkvtUPM3Rq2uVZ&ust=1727189852671000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiOiuOp2YgDFQAAAAAdAAAAABAE");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
